@@ -5,7 +5,7 @@ I was having trouble making a pin, So i got the idea to make a random pin genera
 2. Extract The Files
 3. Add PinGenerator to your path
 4. Open Cmd
-5. Then type in the command {pingen}
+5. Then type in the command "pingen"
 # License
 AGPL-3.0 License
 
